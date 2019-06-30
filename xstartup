@@ -1,0 +1,11 @@
+#!/bin/sh
+#crafted by cfultz
+#Make a selection by simply uncommenting
+#the desktop environment of your choice.
+
+unset SESSION_MANAGER
+#exec /usr/bin/startkde
+#exec /usr/bin/gnome-session
+#exec /usr/bin/mate-session
+#exec /usr/bin/xfce4-session
+vncconfig -iconic
