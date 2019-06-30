@@ -8,3 +8,9 @@ Note: You MUST have the chosen desktop environment installed before connecting o
 * Edit xstartup by uncommenting your preferred desktop environment
 * ???
 * PROFIT!!!
+
+# Current GUI environments supported by this script
+* KDE
+* Gnome
+* MATE
+* XFCE4
