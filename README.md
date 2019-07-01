@@ -14,3 +14,5 @@ Note: You MUST have the chosen desktop environment installed before connecting o
 * Gnome
 * MATE
 * XFCE4
+* Cinnamon
+* LXDE
