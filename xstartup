@@ -4,8 +4,11 @@
 #the desktop environment of your choice.
 
 unset SESSION_MANAGER
+
 #exec /usr/bin/startkde
 #exec /usr/bin/gnome-session
 #exec /usr/bin/mate-session
 #exec /usr/bin/xfce4-session
+#exec /usr/bin/cinnamon-session-cinnamon
+#exec /usr/bin/lxsession
 vncconfig -iconic
